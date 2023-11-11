@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ASUS\OneDrive\Desktop\openGl\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="image_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="basic_camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="directionalLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pointLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="spotLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragmentShader.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="lightFragmentShader.fs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="lightVertexShader.vs">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="vertexShader.vs">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{edfe8654-2c0c-423c-bd45-4d2f317a7ce9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{b92139aa-9d21-42a9-9d59-341ac0c62409}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{1bfc0662-178a-4162-94ef-fc4d88298aac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="grass1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="transparent.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="floortiles.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="walltiles.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="frontop.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="leftwall-1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="floortiles2.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="road.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="man.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="door.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="pil.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="shelftop.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="book1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="book3.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="shelftop1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="cabinet.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="mihrab.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="cabinetdoor.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
